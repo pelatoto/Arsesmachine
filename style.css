@@ -133,7 +133,7 @@ img {
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background: linear-gradient(180deg, rgba(0,0,0,0.5), transparent);
+    background: linear-gradient(0deg, rgba(0,0,0,5.5), transparent);
 }
 
 .nav {
@@ -144,7 +144,7 @@ img {
 }
 
 .nav__logo img {
-    height: 40px; /* Adjust as needed */
+    height: 50px; /* Adjust as needed */
 }
 
 .nav__list {
