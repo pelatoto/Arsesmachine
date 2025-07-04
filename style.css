@@ -248,6 +248,10 @@ img {
 }
 
 .cta__title {
+    display: flex;
+    justify-content: center; /* افقی */
+    align-items: center;     /* عمودی */
+    height: 100vh;
     font-family: var(--english-font);
     font-size: var(--h2-font-size);
 }
