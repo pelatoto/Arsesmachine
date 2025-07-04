@@ -19,7 +19,7 @@
     --english-font: 'Poppins', sans-serif;
 
     /* Font sizes */
-    --big-font-size: 3rem;
+    --big-font-size: 5rem;
     --h1-font-size: 2.25rem;
     --h2-font-size: 1.5rem;
     --h3-font-size: 1.25rem;
@@ -133,7 +133,7 @@ img {
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background: linear-gradient(0deg, rgba(0,0,0,5.5), transparent);
+    background: linear-gradient(0deg, rgba(0,0,0,0.0), transparent);
 }
 
 .nav {
