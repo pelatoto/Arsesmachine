@@ -164,7 +164,7 @@ img {
 /* ==================== HERO ==================== */
 .hero {
     height: 100vh;
-    background-image: url('images/hero-background.jpg');
+    background-image: url('images/hero-background.webp');
     background-size: cover;
     background-position: center;
     display: flex;
